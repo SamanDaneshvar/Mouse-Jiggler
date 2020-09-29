@@ -1,3 +1,4 @@
+![Mouse Jiggler](https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/160/apple/237/mouse-face_1f42d.png)
 # Mouse-Jiggler
 A tiny Windows tool which prevents your computer from going to sleep or shutting down, by jiggling the mouse every so often.
 
