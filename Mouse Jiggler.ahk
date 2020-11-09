@@ -9,10 +9,6 @@ SetWorkingDir %A_ScriptDir%  ; Ensures a consistent starting directory.
 ; This keeps the script running, even though there are no hotkeys/hotstrings/GUIs to keep the script running.
 #Persistent
 
-; Set the tray icon
-icon_path := "🐭 Mouse Face.ico"
-Menu, Tray, Icon, %icon_path%, 1, 0
-
 ; Set the tray icon's tooltip
 Menu, Tray, Tip, Mouse Jiggler!
 
