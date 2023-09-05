@@ -5,9 +5,7 @@ A tiny Windows tool which prevents your computer from going to sleep or shutting
 ## Why you need this
 Windows machines have a built-in feature that puts the computer to sleep, or shuts it down, when the user doesn't use the computer for a specified amount of time.
 
-For many users, this causes more trouble than it solves. On your own computer, you can easily fix this issue by modifying the power settings of Windows. However, on your work computer, you often don't have the required permission to change those settings. This means that you can move away from your computer for **five minutes**, only to find that it has hibernated itself.
-
-Moreover, most work computers, incorporate a feature which detects whether a user is not at his/her computer. In other words, if the computer doesn't detect any activity (i.e., keystrokes on keyboard, mouse movement or clicks) for a few minutes, it flags you as **idle**. Most people don't like their colleagues and their boss to see exactly when they are working and when they are away. The solution: Mouse Jiggler!
+For many users, this causes more trouble than it solves. On your own computer, you can easily fix this issue by modifying the power settings of Windows. However, on your work computer, you often don't have the required permission to change those settings. This means that you can move away from your computer for **five minutes**, only to find that it has hibernated itself. The solution: Mouse Jiggler!
 
 ## How it works
 You run Mouse Jiggler on your computer and let it do its magic. There is no installation required. All you need is the standalone EXE file. You can also add Mouse Jiggler to your Windows startup so that you never forget to run it.
